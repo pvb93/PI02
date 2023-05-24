@@ -6,4 +6,5 @@ pandas
 plotly
 seaborn
 streamlit
-json
+fastjsonschema
+jsonschema
