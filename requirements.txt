@@ -1,0 +1,11 @@
+warnings
+matplotlib
+matplotlib-inline
+nbformat
+nltk
+numpy
+pandas
+plotly
+seaborn
+streamlit
+json
