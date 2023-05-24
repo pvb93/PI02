@@ -1,6 +1,4 @@
-warnings
 matplotlib
-matplotlib-inline
 nbformat
 nltk
 numpy
