@@ -69,7 +69,7 @@ The dashboard is created with `Streamlit`. In the dashboard, one can filter by y
 
 <br/>
 
-## **Disclaimer** :warning:
+## :warning: **Disclaimer** 
 
 This personal project was developed for learning purposes. While exploring the contents of this repository and its associated API, it is paramount that the information presented and the results obtained **should not** be relied upon for making real-world decisions.
 

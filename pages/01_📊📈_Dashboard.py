@@ -59,7 +59,7 @@ var_ground_n = round((cy_ground_n - py_ground_n)*100/py_ground_n, 2)
 
 
 # Row A
-st.markdown('### Métricas')
+st.markdown('### Indicadores Claves de Rendimiento')
 
 col1, col2, col3, col4 = st.columns(4)
 col1.metric('Tasa de mortalidad', float(df_mf.tasa), float(df_mf.var_tasa), delta_color="inverse")

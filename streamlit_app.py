@@ -235,5 +235,5 @@ st.markdown('## Disclaimer')
 
 st.write('''<p style='text-align: justify;'>
 Este proyecto personal fue desarrollado con fines de aprendizaje. Al explorar los contenidos del mismo y su repositorio asociado,\
-la información presentada y los resultados obtenidos **no deben** ser utilizados para tomar decisiones en el mundo real.
+la información presentada y los resultados obtenidos <strong>no deben</strong> ser utilizados para tomar decisiones en el mundo real.
 ''', unsafe_allow_html=True)
