@@ -53,9 +53,13 @@ Following this initial analysis, a multi-variable examination was conducted, com
 
 Created with `Streamlit`. Summary of the insights provided by the EDA.
 
+https://pvb93-pi02-streamlit-app-dvr5di.streamlit.app/
+
 **`Dashboard`**👩‍💼💻📊
 
 The dashboard is created with `Streamlit`. In the dashboard, one can filter by year and by contiennt. The dashboard displays the `KPIs` previously defined, the number of accidents per cause in the previous 10 year() taking as current year the choosen year), the top 5 countries and aircraft type involved, general information of that year's accident (local time, day of the week, number of fatalities, cause), total fatalities and people aboard in the last 10 years, total fatalities on ground of the given year and number of accidents by continent.
+
+https://pvb93-pi02-streamlit-app-dvr5di.streamlit.app/%F0%9F%93%88_Dashboard
 
 <br/>
 
